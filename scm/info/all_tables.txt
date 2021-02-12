@@ -1,0 +1,19 @@
+<=============================>
+<<<< Student Profile Table >>>>
+<=============================>
+
+1) Student_ID(primary Key) 
+2) School_ID(Foren_key) From School Table
+3) Class_ID(Foren_key) From Class table
+4) Dep_ID(Foren_key) From Depertment table
+5) Student_session
+6) Student_name
+7) Student_Photo()Will be added soon
+8) Student_email(unic_key) From Google of Facebook Api
+9) Student_Username(unic_key)
+10) Student_password
+11) Student_address
+12) student_facebook_account(dropDown)
+13) student_gmail_account(DropDown)
+14) student_ios_account(DropDown)
+
